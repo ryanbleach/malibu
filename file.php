@@ -4,6 +4,6 @@
 "primrage":"online",
 "versionsemi":"1.0",
 "versionprim":"1.0",
-"versionrage":"1.6",
+"versionrage":"1.8",
 "versionloader":"1.2"}
 
