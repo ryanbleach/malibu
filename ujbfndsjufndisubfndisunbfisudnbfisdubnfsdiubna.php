@@ -21,8 +21,8 @@
 "user10name":"",
 
 "user1build":"dev",
-"user2build":"beta",
-"user3build":"dev",
+"user2build":"live",
+"user3build":"beta",
 "user4build":"",
 "user5build":"",
 "user6build":"",
