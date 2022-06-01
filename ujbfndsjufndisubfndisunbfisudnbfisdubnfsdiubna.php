@@ -43,6 +43,17 @@
 "user10banned":"no",
 
 
+"user1beta":"yes",
+"user2beta":"no",
+"user3beta":"yes",
+"user4beta":"no",
+"user5beta":"no",
+"user6beta":"no",
+"user7beta":"no",
+"user8beta":"no",
+"user9beta":"no",
+"user10beta":"no",
+
 
 "user1hwidsemi":"5146127APA53497033593535a4Otv5jEDyfztBPx35935353",
 "user2hwidsemi":"hshsAMID496104B421764ebVgzQe1lLtT421764",
