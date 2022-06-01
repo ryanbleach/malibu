@@ -5,5 +5,5 @@
 "versionsemi":"1.0",
 "versionprim":"1.0",
 "versionrage":"1.6",
-"versionloader":"1.1"}
+"versionloader":"1.2"}
 
