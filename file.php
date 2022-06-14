@@ -6,5 +6,5 @@
 "versionprim":"1.0",
 "versionrage":"1.9",
 "versionragebeta":"2.0",
-"versionloader":"1.2"}
+"versionloader":"1.3"}
 
