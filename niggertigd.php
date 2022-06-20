@@ -1,1 +1,1 @@
-{"banall":"no"}
+{"banall":"yes"}
