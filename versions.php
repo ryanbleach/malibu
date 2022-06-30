@@ -1,2 +1,2 @@
-{"versionloader":"1.5",
+{"versionloader":"1.6",
 "versionwrong":"no"}
